@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1.4314651mm"
+   height="1.4103088mm"
+   viewBox="0 0 1.4314651 1.4103088"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="inkscape#kinship_logos.svg"
+   inkscape:export-filename="..\..\..\..\..\Code\Home\npm-packages\@kinshipjs\branding\kinship-logo-db-only.png"
+   inkscape:export-xdpi="1221.9346"
+   inkscape:export-ydpi="1221.9346"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title9880">Kinship Logos</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="388.99712"
+     inkscape:cy="486.31269"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14263">
+      <stop
+         style="stop-color:#f83b3b;stop-opacity:1;"
+         offset="0.0994898"
+         id="stop14259" />
+      <stop
+         style="stop-color:#d72400;stop-opacity:1;"
+         offset="0.50255102"
+         id="stop14261" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14257">
+      <stop
+         style="stop-color:#ca0300;stop-opacity:1;"
+         offset="0"
+         id="stop14253" />
+      <stop
+         style="stop-color:#390b0b;stop-opacity:1;"
+         offset="0.49744901"
+         id="stop14255" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14263"
+       id="linearGradient6460"
+       x1="82.898582"
+       y1="96.607254"
+       x2="91.218376"
+       y2="96.607254"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14257"
+       id="linearGradient6468"
+       x1="82.898582"
+       y1="96.607254"
+       x2="91.218376"
+       y2="96.607254"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-107.75292,-127.13038)">
+    <g
+       id="g14457"
+       inkscape:label="DATABASE">
+      <g
+         id="g27461"
+         style="display:inline"
+         inkscape:label="DATABASE-BG"
+         transform="matrix(0.90156752,0,0,0.8118323,9.7320359,24.265644)">
+        <path
+           id="rect26634-9"
+           style="fill:#760000;fill-opacity:1;stroke:#000000;stroke-width:0.0730234;stroke-opacity:0"
+           inkscape:label="CYLINDER-BASE"
+           d="m 108.76007,128.15542 h 1.51391 v -1.20592 h -1.48708 z" />
+        <path
+           id="path25844-3"
+           style="fill:#760000;fill-opacity:1;stroke:#000000;stroke-width:0.0604903;stroke-opacity:0"
+           inkscape:label="CYLINDER-TOP"
+           d="m 109.49402,126.77498 a 0.75760705,0.1785621 0 0 0 -0.66262,0.10242 0.75760705,0.1785621 0 0 0 -0.0435,0.0266 l -0.002,0.0972 a 0.75760705,0.1785621 0 0 0 0.36115,0.10816 0.75760705,0.1785621 0 0 0 1.00456,-0.0585 0.75760705,0.1785621 0 0 0 -0.1821,-0.24036 l -0.17552,-0.023 a 0.75760705,0.1785621 0 0 0 -0.29995,-0.0125 z" />
+        <path
+           id="path25844-4-6"
+           style="fill:#760000;fill-opacity:1;stroke:#000000;stroke-width:0.072947;stroke-opacity:0"
+           inkscape:label="CYLINDER-BOTTOM"
+           d="m 108.76058,128.15386 a 0.756989,0.25988871 0 0 0 0.38771,0.21997 0.756989,0.25988871 0 0 0 1.00371,-0.0857 0.756989,0.25988871 0 0 0 -0.18171,-0.34955 l -0.17564,-0.0334 a 0.756989,0.25988871 0 0 0 -0.96169,0.13062 0.756989,0.25988871 0 0 0 -0.0724,0.10084 0.756989,0.25988871 0 0 0 0,5.3e-4 z" />
+      </g>
+      <g
+         id="g14333"
+         inkscape:label="DATABASE-FG"
+         style="display:inline"
+         transform="translate(0,0.02338608)">
+        <rect
+           style="display:inline;fill:#8e1500;fill-opacity:1;stroke:#000000;stroke-width:0.0621707;stroke-opacity:0"
+           id="rect26634"
+           width="1.3370382"
+           height="0.98983359"
+           x="107.81399"
+           y="127.27126"
+           inkscape:label="CYLINDER-BASE" />
+        <path
+           style="display:inline;fill:#bd1e00;fill-opacity:1;stroke:#000000;stroke-width:0.0516283;stroke-opacity:0"
+           id="path25844"
+           sodipodi:type="arc"
+           sodipodi:cx="108.48003"
+           sodipodi:cy="127.27936"
+           sodipodi:rx="0.6726265"
+           sodipodi:ry="0.14650847"
+           sodipodi:start="5.3542715"
+           sodipodi:end="5.0881754"
+           sodipodi:arc-type="arc"
+           d="m 108.88273,127.16201 a 0.6726265,0.14650847 0 0 1 0.16163,0.19707 0.6726265,0.14650847 0 0 1 -0.89201,0.0482 0.6726265,0.14650847 0 0 1 -0.28022,-0.19066 0.6726265,0.14650847 0 0 1 0.85475,-0.0736"
+           sodipodi:open="true"
+           inkscape:label="CYLINDER-TOP" />
+        <path
+           style="display:inline;fill:#8e1500;fill-opacity:1;stroke:#000000;stroke-width:0.0621056;stroke-opacity:0"
+           id="path25844-4"
+           sodipodi:type="arc"
+           sodipodi:cx="108.48256"
+           sodipodi:cy="128.254"
+           sodipodi:rx="0.66846532"
+           sodipodi:ry="0.21332659"
+           sodipodi:start="5.3542715"
+           sodipodi:end="5.0881754"
+           sodipodi:arc-type="arc"
+           d="m 108.88277,128.08313 a 0.66846532,0.21332659 0 0 1 0.16063,0.28695 0.66846532,0.21332659 0 0 1 -0.88649,0.0702 0.66846532,0.21332659 0 0 1 -0.27849,-0.27761 0.66846532,0.21332659 0 0 1 0.84947,-0.10713"
+           sodipodi:open="true"
+           inkscape:label="CYLINDER-BOTTOM" />
+        <g
+           id="g27800"
+           inkscape:label="LOGO"
+           style="display:inline"
+           transform="matrix(0.0542019,0,0,0.04594037,103.09432,122.01076)">
+          <path
+             sodipodi:type="star"
+             style="fill:url(#linearGradient6468);fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-opacity:0"
+             id="path4035"
+             inkscape:flatsided="false"
+             sodipodi:sides="5"
+             sodipodi:cx="87.165222"
+             sodipodi:cy="96.923416"
+             sodipodi:r1="4.3311052"
+             sodipodi:r2="2.1655529"
+             sodipodi:arg1="0.8636693"
+             sodipodi:arg2="1.4919878"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 89.978935,100.21606 -2.643225,-1.133812 -2.432492,1.534652 0.261517,-2.864225 -2.211221,-1.839204 2.804852,-0.636376 1.065881,-2.671341 1.471977,2.470921 2.869972,0.188224 -1.89512,2.16349 z"
+             inkscape:transform-center-x="-0.0051010601"
+             inkscape:transform-center-y="-0.42316794"
+             transform="matrix(1.315305,1.8800545,-1.1189808,0.16869456,92.779679,-50.956499)"
+             inkscape:label="LOGO-BG" />
+          <path
+             style="display:inline;fill:#8e1500;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-opacity:0"
+             d="m 101.4171,132.62652 -2.426761,2.48771 -1.689616,-6.501 z"
+             id="path24982"
+             inkscape:label="STAR-LEFT-LEG" />
+          <path
+             sodipodi:type="star"
+             style="display:inline;fill:url(#linearGradient6460);fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-opacity:0"
+             id="path2516"
+             inkscape:flatsided="false"
+             sodipodi:sides="5"
+             sodipodi:cx="87.165222"
+             sodipodi:cy="96.923416"
+             sodipodi:r1="4.3311052"
+             sodipodi:r2="2.1655529"
+             sodipodi:arg1="0.8636693"
+             sodipodi:arg2="1.4919878"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 89.978935,100.21606 -2.643225,-1.133812 -2.432492,1.534652 0.261517,-2.864225 -2.211221,-1.839204 2.804852,-0.636376 1.065881,-2.671341 1.471977,2.470921 2.869972,0.188224 -1.89512,2.16349 z"
+             inkscape:transform-center-x="0.23457677"
+             inkscape:transform-center-y="-0.28180327"
+             transform="matrix(1.1134666,2.1010577,-1.1820606,0.04529352,117.17478,-59.370505)"
+             inkscape:label="LOGO-FG" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata9878">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Kinship Logos</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
